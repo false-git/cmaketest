@@ -14,5 +14,5 @@ make
 TODO:
 * 成果物の位置を指定したい。
 * make install に対応したい。
-* google test に対応したい。
+* ~~google test に対応したい。~~
 * (同じソースが複数回ビルドされるのを避けたい)
