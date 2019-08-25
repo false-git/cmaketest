@@ -5,10 +5,12 @@ https://qiita.com/shohirose/items/45fb49c6b429e8b204ac
 
 を見ながら自分で試してみたもの。
 
+```zsh
 mkdir build
 cd build
 cmake ..
 make
+```
 でビルドできる。
 
 TODO:
